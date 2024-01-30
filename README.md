@@ -1,1 +1,1 @@
-# opentelemetry
+# OpenTelemetry .NET Automatic Instrumentation exmaples
